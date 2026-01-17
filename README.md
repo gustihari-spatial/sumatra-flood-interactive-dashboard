@@ -30,7 +30,7 @@ In addition to flood event visualization, the dashboard provides a monitoring co
 
 This feature enables stakeholders to track the status of housing development across affected regions, supporting transparency and coordination in post-disaster recovery efforts. By presenting spatial and temporal progress indicators, the dashboard assists decision-makers in identifying delays, prioritizing interventions, and evaluating overall recovery performance.
 
-![Housing Reconstruction Progress and Monitoring](dashboard_sumatera_resettlment_preview.png)
+![Housing Reconstruction Progress and Monitoring](dashboard_sumatera_resettlement_preview.png)
 
 **Monitoring Capabilities:**
 - Visualization of housing reconstruction progress by location
