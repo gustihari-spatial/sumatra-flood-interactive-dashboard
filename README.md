@@ -1,4 +1,4 @@
-# Sumatra-flood-interactive-dashboard
+# Sumatera-flood-interactive-dashboard
 This project presents an interactive dashboard developed to support disaster response decision-making within the Government of Indonesia (GoI). It provides a spatial overview of flood events across Sumatra, enabling faster situational assessment and informed response planning through interactive geospatial visualization.
 
 ## Project Overview
